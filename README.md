@@ -51,7 +51,7 @@ Busco minha primeira oportunidade como Desenvolvedora Backend (Estágio ou Júni
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![API Rest](https://img.shields.io/badge/REST_API-025E8A?style=for-the-badge&logo=api&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-563D7C?style=for-the-badge&logo=json&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_OpenAI-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Ferramentas & Ambientes
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -64,11 +64,18 @@ Busco minha primeira oportunidade como Desenvolvedora Backend (Estágio ou Júni
 
 ## 📊 Estatísticas
 
-```markdown
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinixavier&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
+<p>
+  <img 
+    align="left" 
+    width="48%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=alinixavier&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+    alt="Estatísticas do GitHub"
+  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinixavier&layout=compact&langs_count=7&theme=radial" alt="Linguagens mais usadas" />
+  <img 
+    align="left" 
+    height="198"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alinixavier&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+    alt="Tecnologias mais usadas"
+  />
 </p>
