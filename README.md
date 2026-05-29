@@ -37,7 +37,7 @@ Busco minha primeira oportunidade como Desenvolvedora Backend (Estágio ou Júni
 ## 📫 Contato
 
 * 📧 **E-mail:** contato.alinixavier@gmail.com
-* 💼 **LinkedIn:** [[https://www.linkedin.com/in/alinixavier/)]]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/alinixavier/
 
 ---
 
