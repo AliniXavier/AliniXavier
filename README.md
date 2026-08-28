@@ -64,18 +64,18 @@ Busco minha primeira oportunidade como Desenvolvedora Backend (Estágio ou Júni
 
 ## 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
     align="left" 
-    width="48%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=alinixavier&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-    alt="Estatísticas do GitHub"
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=alinixavier&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
+    alt="Estatísticas do GitHub" 
   />
-
   <img 
     align="left" 
-    height="198"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alinixavier&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
-    alt="Tecnologias mais usadas"
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinixavier&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" 
+    alt="Tecnologias mais usadas" 
   />
 </p>
+<br clear="left"/>
