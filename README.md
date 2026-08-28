@@ -65,17 +65,29 @@ Busco minha primeira oportunidade como Desenvolvedora Backend (Estágio ou Júni
 ## 📊 Estatísticas
 
 <p align="center">
-  <img 
-    align="left" 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=alinixavier&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
-    alt="Estatísticas do GitHub" 
-  />
-  <img 
-    align="left" 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinixavier&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" 
-    alt="Tecnologias mais usadas" 
-  />
+  <!-- Card de Estatísticas Gerais (Lilás) -->
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=alinixavier&show_icons=true&include_all_commits=true&count_private=true&bg_color=161320&title_color=cba6f7&icon_color=b4befe&text_color=cdd6f4&border_color=312744&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-stats-extended.vercel.app/api?username=alinixavier&show_icons=true&include_all_commits=true&count_private=true&bg_color=faf7fd&title_color=7b2cbf&icon_color=9d4edd&text_color=4a4458&border_color=e0d4f7&cache_seconds=1800" 
+      alt="Estatísticas do GitHub" 
+    />
+  </picture>
 </p>
-<br clear="left"/>
+
+<p align="center">
+  <!-- Card de Linguagens (Layout Padrão em Barras + Lilás) -->
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=alinixavier&langs_count=8&include_all_commits=true&bg_color=161320&title_color=cba6f7&text_color=cdd6f4&border_color=312744&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=alinixavier&langs_count=8&include_all_commits=true&bg_color=faf7fd&title_color=7b2cbf&text_color=4a4458&border_color=e0d4f7&cache_seconds=1800" 
+      alt="Linguagens mais usadas" 
+    />
+  </picture>
+</p>
